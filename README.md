@@ -108,7 +108,7 @@ If you have useful features and optimizations, please submit a [Pull Request](ht
 ## 🚀 Quick Start
 
 ### Requirements
-
+345
 - Node.js ≤ 22
 - pnpm ≤ 9
 
