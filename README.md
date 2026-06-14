@@ -52,7 +52,7 @@
 >Firefly supports i18n multi-language switching, but except for Simplified Chinese, other languages are AI-translated. If there are any errors, welcome to submit [Pull Request](https://github.com/CuteLeaf/Firefly/pulls) for correction.
 
 ## ✨ Features
-
+asd
 ### Core Features
 
 - [x] **Astro + Tailwind CSS** - Ultra-fast static site generation based on modern tech stack
